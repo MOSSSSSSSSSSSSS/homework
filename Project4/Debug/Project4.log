@@ -1,0 +1,4 @@
+﻿  3-b1-2.cpp
+C:\Users\23959\source\repos\homework\Project4\3-b1-2.cpp(10,26): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\23959\source\repos\homework\Project4\3-b1-2.cpp(11,27): warning C4307: “*”: 有符号整型常量溢出
+  Project4.vcxproj -> C:\Users\23959\source\repos\homework\Debug\Project4.exe

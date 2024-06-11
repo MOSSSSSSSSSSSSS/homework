@@ -1,0 +1,4 @@
+﻿  程设_五子棋10.21.cpp
+C:\Users\23959\source\repos\homework\AA程设期中_五子棋\程设_五子棋10.21.cpp(363,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\AA程设期中_五子棋\程设_五子棋10.21.cpp(363,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  AA程设期中_五子棋.vcxproj -> C:\Users\23959\source\repos\homework\Debug\11程设期中_五子棋.exe

@@ -1,0 +1,14 @@
+﻿  3-b3-2.cpp
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(13,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(14,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(15,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(16,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(17,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(18,62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(19,72): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(20,82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(21,92): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(22,90): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(23,105): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\Project6\3-b3-2.cpp(24,115): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project6.vcxproj -> C:\Users\23959\source\repos\homework\Debug\Project6.exe

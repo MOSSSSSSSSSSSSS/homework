@@ -1,0 +1,8 @@
+﻿  AIWine.cpp
+C:\Users\23959\source\repos\homework\11测试\AITypes.h(1,1): warning C4828: 文件包含在偏移 0x559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\23959\source\repos\homework\11测试\HashTable.h(19,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+C:\Users\23959\source\repos\homework\11测试\AITypes.h(1,1): warning C4828: 文件包含在偏移 0x559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\23959\source\repos\homework\11测试\HashTable.h(19,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  11测试.vcxproj -> C:\Users\23959\source\repos\homework\Debug\11测试.exe

@@ -1,0 +1,10 @@
+﻿  AI.cpp
+C:\Users\23959\source\repos\homework\11简单五子棋\Board.h(5,1): error C2144: 语法错误:“unsigned __int64”的前面应有“;”
+C:\Users\23959\source\repos\homework\11简单五子棋\Board.h(5,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\23959\source\repos\homework\11简单五子棋\AI.cpp(12,52): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23959\source\repos\homework\11简单五子棋\AI.cpp(99,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\23959\source\repos\homework\11简单五子棋\AI.cpp(515,24): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\23959\source\repos\homework\11简单五子棋\Board.h(5,1): error C2144: 语法错误:“unsigned __int64”的前面应有“;”
+C:\Users\23959\source\repos\homework\11简单五子棋\Board.h(5,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  正在生成代码...

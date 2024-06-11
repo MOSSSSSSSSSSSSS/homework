@@ -1,0 +1,4 @@
+﻿  Assignment3-3.cpp
+C:\Users\23959\source\repos\homework\Assignment3-3\Assignment3-3.cpp(92,33): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\23959\source\repos\homework\Assignment3-3\Assignment3-3.cpp(94,26): warning C4018: “<”: 有符号/无符号不匹配
+  Assignment3-3.vcxproj -> C:\Users\23959\source\repos\homework\Debug\Assignment3-3.exe

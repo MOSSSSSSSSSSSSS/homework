@@ -1,0 +1,6 @@
+﻿  3-b3-1.c
+C:\Users\23959\source\repos\homework\Project10\3-b3-1.c(23,29): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\23959\source\repos\homework\Project10\3-b3-1.c(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\23959\source\repos\homework\Project10\3-b3-1.c(36,9): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\23959\source\repos\homework\Project10\3-b3-1.c(36,9): message : 请考虑在格式字符串中使用“%I64d”
+  Project10.vcxproj -> C:\Users\23959\source\repos\homework\Debug\Project10.exe

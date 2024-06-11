@@ -1,0 +1,4 @@
+﻿  07_2253209_刘佳朋.cpp
+C:\Users\23959\source\repos\homework\07_2253209_刘佳朋\07_2253209_刘佳朋.cpp(70,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\23959\source\repos\homework\07_2253209_刘佳朋\07_2253209_刘佳朋.cpp(196): warning C4715: “BinaryTree::CompareOperator”: 不是所有的控件路径都返回值
+  07_2253209_刘佳朋.vcxproj -> C:\Users\23959\source\repos\homework\Debug\07_2253209_刘佳朋.exe

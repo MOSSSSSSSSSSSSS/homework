@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(11 11.16五子棋ddl.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  11.16.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: “link.exe”已退出，代码为 1168。
+LINK : fatal error LNK1168: 无法打开 C:\Users\23959\source\repos\homework\Debug\11 11.16五子棋.exe 进行写入

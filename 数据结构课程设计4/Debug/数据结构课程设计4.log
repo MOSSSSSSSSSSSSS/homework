@@ -1,0 +1,3 @@
+﻿  表达式计算.cpp
+C:\Users\23959\source\repos\homework\数据结构课程设计4\表达式_2253209_刘佳朋.h(292,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  数据结构课程设计4.vcxproj -> C:\Users\23959\source\repos\homework\Debug\数据结构课程设计，表达式计算.exe
